@@ -2,8 +2,8 @@
 
 ## Mathematical Calculator and CGPA Calculator
 
-**Student:** Jimoh Victor  
-**Matric Number:** 2412030  
+**Student:** Jimoh Victor Oluwole  
+**Matric Number:** 241203020  
 **Department:** Data Science  
 **Course:** COS 202 – Computer Programming II
 
@@ -83,4 +83,4 @@ All while solving real-world computational problems.
 
 ## Author
 
-**Jimoh Victor**
+**Jimoh Victor Oluwole**
